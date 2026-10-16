@@ -1,0 +1,6 @@
+{
+  "name": "ARCHIVE — The Past Is Still Speaking",
+  "description": "A digital museum preserving and presenting Nigeria's creative memory through historical photography, sound, style, print culture, and art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
